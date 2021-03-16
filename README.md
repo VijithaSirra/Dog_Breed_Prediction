@@ -3,22 +3,24 @@
   <img src="image.jpg">
 </p>
 
-I created a Dog Breed Prediction model as a Image Classification using ResNet50. This Determine the breed of a dog in an image
+THis Repo Contains Classification using ResNet50 for Dog Breed Prediction. This Determine the breed of a dog in an image
 
-We can get the  huge Dog Breed Image dataset from Kaggle Dog Breed Identification compitation. Here goal was to create a classifier capable of determining a dog’s breed from a photo. The dataset comprises 120 breeds of dog. The number of dogs in each breed lies between 60 and 130. 
+Data Set Source : Dog Breed Image dataset from Kaggle Dog Breed Identification compitation. <br>
+Here goal is to create a classifier capable of determining a Dog’s breed from an Image. 
+The dataset comprises 120 breeds of dog. The number of dogs in each breed ranges between 60 and 130. 
 
-I just created a model in Google Colab to classify the 10 dog breeds 
+In this Repo, contains a classification model Trained in Google Colab to classify the 10 Dog Breeds 
 
-- Beagle,
-- Chihuahua, 
-- Doberman,
-- French Bulldog,
-- Golden Retriever, 
-- Malamute, 
-- Pug,
-- Saint Bernard, 
-- Scottish Deerhound and
-- Tibetan Mastiff.
+- Beagle
+- Chihuahua
+- Doberman
+- French Bulldog
+- Golden Retriever
+- Malamute
+- Pug
+- Saint Bernard 
+- Scottish Deerhound
+- Tibetan Mastiff
 
 I got only few images After extracting these breeds from the Data Set. Then I Augumented existed images to 7k+ by Increasing Brighness, Change in angle, Cropping, and Flipping .  
 
