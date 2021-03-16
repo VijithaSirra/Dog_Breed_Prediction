@@ -18,7 +18,7 @@ I just created a model in Google Colab to classify the 10 dog breeds
 - Pug,
 - Saint Bernard, 
 - Scottish Deerhound and
-- Tibetan Mastiff
+- Tibetan Mastiff.
 
 I got only few images After extracting these breeds from the Data Set. Then I Augumented existed images to 7K+ by Increasing Brighness, Change in angle, Cropping, and Flipping .  
 
