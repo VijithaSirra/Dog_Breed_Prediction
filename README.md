@@ -27,4 +27,4 @@ I used ResNet50 Architecture which includes Conv2d, ReLu Activation Function, Ba
 I got 100% Training Accuracy and 83% Testing Accuracy by using ResNet50. 
 
 ### DataSet:
-[Dog Breed Identification”](https://www.kaggle.com/c/dog-breed-identification/data)
+[Dog Breed Identification](https://www.kaggle.com/c/dog-breed-identification/data)
