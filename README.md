@@ -32,7 +32,14 @@ After Augumentation, the whole Dataset size increased to 7000+
 
 Augmentaion Processes :  Increasing Brighness, Change in Angle, Cropping, and Flipping 
  
-Used ResNet50 Architecture which includes Conv2d, ReLu Activation Function, Bacth Normalization, Maxpooling, AveragePooling and Softmax layers.
+Used ResNet50 Architecture which includes :
+
+- Conv2d
+- ReLu Activation Function
+- Bacth Normalization
+- Maxpooling
+- AveragePooling 
+- Softmax layers
 
 And used Categorical Crossentropy as loss function , And Adam as an Optimizer.
 
