@@ -54,7 +54,7 @@ And used Categorical Crossentropy as loss function , And Adam as an Optimizer.
 
 ### Inference: [Inference Code](https://github.com/VijithaSirra/Dog_Breed_Prediction/blob/main/Inference.ipynb)
 
-Note : Try Reloading Notebooks if not opened properly. 
+#### Note : Try Reloading Notebooks if not opened properly. 
 
 ### Further Improvements: 
 - To Use L1, L2 Regularizers 
