@@ -24,7 +24,9 @@ In this Repo, contains a classification model Trained in Google Colab to classif
 - Scottish Deerhound
 - Tibetan Mastiff
 
-After extracting only these 10 Dog breeds from the Data Set, the Dataset size became less. Used Image Augmentation to increase size of the Dataset. 
+After extracting only these 10 Dog breeds from the Dataset, the Dataset size became less. 
+
+Used Image Augmentation to increase size of the Dataset. 
 
 After Augumentation, the whole Dataset size increased to 7000+
 
