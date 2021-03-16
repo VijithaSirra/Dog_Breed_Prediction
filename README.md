@@ -8,6 +8,7 @@ THis Repo Contains Classification using ResNet50 for Dog Breed Prediction. This 
 Data Set Source : Dog Breed Image dataset from Kaggle Dog Breed Identification compitation. <br>
 
 Here goal is to create a classifier capable of determining a Dog’s breed from an Image. 
+
 The dataset comprises 120 breeds of dog. The number of dogs in each breed ranges between 60 and 130. 
 
 In this Repo, contains a classification model Trained in Google Colab to classify the 10 Dog Breeds 
@@ -23,11 +24,17 @@ In this Repo, contains a classification model Trained in Google Colab to classif
 - Scottish Deerhound
 - Tibetan Mastiff
 
-I got only few images After extracting these breeds from the Data Set. Then I Augumented existed images to 7k+ by Increasing Brighness, Change in angle, Cropping, and Flipping .  
+After extracting only these 10 Dog breeds from the Data Set, the Dataset size became less. Used Image Augmentation to increase size of the Dataset. 
 
-I used ResNet50 Architecture which includes Conv2d, ReLu Activation Function, Bacth Normalization, Maxpooling, AveragePooling and Softmax layers. And I used Categorical Crossentropy as loss function , And Adam as an Optimizer.
+After Augumentation, the whole Dataset size increased to 7000+
 
-I got 98% Training Accuracy and 80% Testing Accuracy by using ResNet50. 
+Augmentaion Processes :  Increasing Brighness, Change in Angle, Cropping, and Flipping 
+ 
+Used ResNet50 Architecture which includes Conv2d, ReLu Activation Function, Bacth Normalization, Maxpooling, AveragePooling and Softmax layers.
+
+And used Categorical Crossentropy as loss function , And Adam as an Optimizer.
+
+Got 98% Training Accuracy and 80% Testing Accuracy by using ResNet50. 
 
 ### DataSet:
 [Dog Breed Identification](https://www.kaggle.com/c/dog-breed-identification/data)
