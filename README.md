@@ -38,15 +38,12 @@ And used Categorical Crossentropy as loss function , And Adam as an Optimizer.
 
 #### Got 98% Training Accuracy and 80% Testing Accuracy by using ResNet50. 
 
-### DataSet:
-[Dog Breed Identification](https://www.kaggle.com/c/dog-breed-identification/data)
+### Dataset: [Dog Breed Identification](https://www.kaggle.com/c/dog-breed-identification/data)
 
 
-### Training:
-[Training Classification Model](https://github.com/VijithaSirra/Dog_Breed_Prediction/blob/main/Dog_Breed_Train.ipynb)
+### Training: [Training Classification Model](https://github.com/VijithaSirra/Dog_Breed_Prediction/blob/main/Dog_Breed_Train.ipynb)
 
-### Inference:
-[Inference Code](https://github.com/VijithaSirra/Dog_Breed_Prediction/blob/main/Inference.ipynb)
+### Inference: [Inference Code](https://github.com/VijithaSirra/Dog_Breed_Prediction/blob/main/Inference.ipynb)
 
 ### Further Improvements: 
 - To Use L1, L2 Regularizers 
