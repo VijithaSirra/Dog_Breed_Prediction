@@ -3,7 +3,9 @@
   <img src="image.jpg">
 </p>
 
-THis Repo Contains Classification using ResNet50 for Dog Breed Prediction. This Determine the breed of a dog in an image
+This Repo Contains Classification using ResNet50 for Dog Breed Prediction. 
+
+This Determine the breed of a Dog in an image
 
 Data Set Source : Dog Breed Image dataset from Kaggle Dog Breed Identification compitation. <br>
 
@@ -37,16 +39,16 @@ Used ResNet50 Architecture which includes :
 - Conv2d
 - ReLu Activation Function
 - Bacth Normalization
-- Maxpooling
+- MaxPooling
 - AveragePooling 
 - Softmax layers
 
+
 And used Categorical Crossentropy as loss function , And Adam as an Optimizer.
 
-#### Got 98% Training Accuracy and 80% Testing Accuracy by using ResNet50. 
+#### Achieved 98% Training Accuracy and 80% Testing Accuracy by using ResNet50. 
 
 ### Dataset: [Dog Breed Identification](https://www.kaggle.com/c/dog-breed-identification/data)
-
 
 ### Training: [Training Classification Model](https://github.com/VijithaSirra/Dog_Breed_Prediction/blob/main/Dog_Breed_Train.ipynb)
 
