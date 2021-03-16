@@ -24,7 +24,7 @@ I got only few images After extracting these breeds from the Data Set. Then I Au
 
 I used ResNet50 Architecture which includes Conv2d, ReLu Activation Function, Bacth Normalization, Maxpooling, AveragePooling and Softmax layers. And I used Categorical Crossentropy as loss function , And Adam as an Optimizer.
 
-I got 98% Training Accuracy and 83% Testing Accuracy by using ResNet50. 
+I got 98% Training Accuracy and 80% Testing Accuracy by using ResNet50. 
 
 ### DataSet:
 [Dog Breed Identification](https://www.kaggle.com/c/dog-breed-identification/data)
