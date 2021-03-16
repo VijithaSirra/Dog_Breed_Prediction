@@ -36,7 +36,7 @@ Used ResNet50 Architecture which includes Conv2d, ReLu Activation Function, Bact
 
 And used Categorical Crossentropy as loss function , And Adam as an Optimizer.
 
-## Got 98% Training Accuracy and 80% Testing Accuracy by using ResNet50. 
+#### Got 98% Training Accuracy and 80% Testing Accuracy by using ResNet50. 
 
 ### DataSet:
 [Dog Breed Identification](https://www.kaggle.com/c/dog-breed-identification/data)
@@ -47,3 +47,7 @@ And used Categorical Crossentropy as loss function , And Adam as an Optimizer.
 
 ### Inference:
 [Inference Code](https://github.com/VijithaSirra/Dog_Breed_Prediction/blob/main/Inference.ipynb)
+
+### Further Improvements: 
+- To Use L1, L2 Regularizers 
+- To Use Dropout Layers
