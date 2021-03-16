@@ -9,16 +9,16 @@ We can get the  huge Dog Breed Image dataset from Kaggle Dog Breed Identificatio
 
 I just created a model in Google Colab to classify the 10 dog breeds 
 
-- beagle,
-- chihuahua, 
-- doberman,
-- french_bulldog,
-- golden_retriever, 
-- malamute, 
-- pug,
-- saint_bernard, 
-- scottish_deerhound and
-- tibetan_mastiff
+- Beagle,
+- Chihuahua, 
+- Doberman,
+- French Bulldog,
+- Golden_Retriever, 
+- Malamute, 
+- Pug,
+- Saint Bernard, 
+- Scottish Deerhound and
+- Tibetan Mastiff
 
 I got only few images After extracting these breeds from the Data Set. Then I Augumented existed images to 7K+ by Increasing Brighness, Change in angle, Cropping, and Flipping .  
 
