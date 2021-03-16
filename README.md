@@ -6,6 +6,7 @@
 THis Repo Contains Classification using ResNet50 for Dog Breed Prediction. This Determine the breed of a dog in an image
 
 Data Set Source : Dog Breed Image dataset from Kaggle Dog Breed Identification compitation. <br>
+
 Here goal is to create a classifier capable of determining a Dog’s breed from an Image. 
 The dataset comprises 120 breeds of dog. The number of dogs in each breed ranges between 60 and 130. 
 
