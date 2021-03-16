@@ -9,19 +9,22 @@ We can get the  huge Dog Breed Image dataset from Kaggle Dog Breed Identificatio
 
 I just created a model in Google Colab to classify the 10 dog breeds 
 
-beagle,
-chihuahua, 
-doberman,
-french_bulldog,
-golden_retriever, 
-malamute, 
-pug" ,
-saint_bernard, 
-scottish_deerhound,
-tibetan_mastiff
+- beagle,
+- chihuahua, 
+- doberman,
+- french_bulldog,
+- golden_retriever, 
+- malamute, 
+- pug,
+- saint_bernard, 
+- scottish_deerhound and
+- tibetan_mastiff
 
 I got only few images After extracting these breeds from the Data Set. Then I Augumented existed images to 7K+ by Increasing Brighness, Change in angle, Cropping, and Flipping .  
 
 I used ResNet50 Architecture which includes Conv2d, ReLu Activation Function, Bacth Normalization, Maxpooling AveragePooling and Softmax layers. And I used sparse_categorical_crossentropy as loss function , And Stochastic Gradient Decent as an Optimizer.
 
 I got 100% Training Accuracy and 83% Testing Accuracy by using ResNet50. 
+
+### DataSet:
+["Dog Breed Identification”](https://www.kaggle.com/c/dog-breed-identification/data)
