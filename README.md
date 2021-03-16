@@ -13,7 +13,7 @@ I just created a model in Google Colab to classify the 10 dog breeds
 - Chihuahua, 
 - Doberman,
 - French Bulldog,
-- Golden_Retriever, 
+- Golden Retriever, 
 - Malamute, 
 - Pug,
 - Saint Bernard, 
